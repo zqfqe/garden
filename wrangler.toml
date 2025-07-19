@@ -1,0 +1,5 @@
+# wrangler.toml
+
+name = "garden" # 你的项目名称，可以和 Cloudflare 上的项目名保持一致
+compatibility_date = "2024-05-02" # 使用一个较新的日期来启用新特性
+compatibility_flags = ["nodejs_compat"]
