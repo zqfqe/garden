@@ -8,11 +8,11 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: {
-    default: "Grow a Garden Mutation Calculator - Roblox Crop Value Calculator",
+    default: "Grow a Garden Mutation Calculator",
     template: "%s | Grow a Garden Calculator",
   },
   description:
-    "Calculate exact crop values in Roblox Grow a Garden with our authentic mutation calculator. Features all 49 crops, 42 mutations, weight squared formula, and friend boost system. Free Grow a Garden price list and farming guide.",
+    "Accurately calculate the value of any crop in Grow A Garden. Our calculator supports all mutations, weight, and quantity for the most precise pricing.",
   keywords: [
     "Grow a Garden Calculator",
     "Roblox Grow a Garden",
@@ -55,9 +55,9 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://growagardenmutationcalculator.pro",
-    title: "Grow a Garden Mutation Calculator - Roblox Crop Value Calculator",
+    title: "Grow a Garden Mutation Calculator",
     description:
-      "Calculate exact crop values in Roblox Grow a Garden with our authentic mutation calculator. Features all 49 crops, 42 mutations, weight squared formula, and friend boost system.",
+      "Accurately calculate the value of any crop in Grow A Garden. Our calculator supports all mutations, weight, and quantity for the most precise pricing.",
     siteName: "Grow a Garden Mutation Calculator",
     images: [
       {
@@ -80,9 +80,9 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@GrowGardenCalc",
     creator: "@GrowGardenCalc",
-    title: "Grow a Garden Mutation Calculator - Roblox Crop Value Calculator",
+    title: "Grow a Garden Mutation Calculator",
     description:
-      "Calculate exact crop values in Roblox Grow a Garden with our authentic mutation calculator. Features all 49 crops, 42 mutations, weight squared formula, and friend boost system.",
+      "Accurately calculate the value of any crop in Grow A Garden. Our calculator supports all mutations, weight, and quantity for the most precise pricing.",
     images: ["https://growagardenmutationcalculator.pro/android-chrome-512x512.png"],
   },
   icons: {
@@ -129,7 +129,7 @@ export const metadata: Metadata = {
     "apple-touch-fullscreen": "yes",
     "apple-mobile-web-app-orientations": "portrait",
   },
-    generator: 'v0.dev'
+  generator: "v0.dev",
 }
 
 export default function RootLayout({
