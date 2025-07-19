@@ -1,0 +1,25 @@
+{
+  "name": "Grow a Garden Mutation Calculator",
+  "short_name": "Garden Calculator",
+  "description": "Accurately calculate the value of any crop in Grow A Garden with all mutations, weight, and quantity support.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#10b981",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "start_url": "/",
+  "scope": "/"
+}
